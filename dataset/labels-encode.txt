@@ -1,0 +1,4 @@
+0-book
+1-journal
+2-news
+3-law

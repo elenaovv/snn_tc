@@ -1,7 +1,7 @@
 # snn_tc
 SNN Text Classification
 
-Benchmark: IceBert-igc link: https://huggingface.co/mideind/IceBERT
+Benchmark: IceBert-igc link: https://huggingface.co/mideind/IceBERT-igc
 
 References:
 SNN from scratch - SNNLP -       https://arxiv.org/abs/2401.17911v1 
